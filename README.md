@@ -47,7 +47,8 @@
 
 ## Output:
 
-![OUTPUT (2)](https://github.com/user-attachments/assets/e5ad563c-02a6-4371-95ce-5eddad87c070)
+![empd project](https://github.com/user-attachments/assets/8819ec62-36e3-4154-9993-423377bb8072)
+
 
 ### Name: SAKETRAM R
 ### Register Number: 212223230181
